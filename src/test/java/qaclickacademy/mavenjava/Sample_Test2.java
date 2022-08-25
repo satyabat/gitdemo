@@ -8,6 +8,7 @@ public class Sample_Test2 {
 	public void sample()
 	{
 		System.out.println("First project in Maven");
+System.out.println("second project in Maven");
 	}
 	
 @Test 
